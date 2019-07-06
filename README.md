@@ -1,2 +1,2 @@
 # PortfolioWEB
-Website of my curriculum activities
+Website of my curriculum vitae
